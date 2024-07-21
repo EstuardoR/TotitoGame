@@ -1,8 +1,17 @@
-# React + Vite
+## Estado del Proyecto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Actualmente, el proyecto está en fase de desarrollo.
 
-Currently, two official plugins are available:
+- [x] Tablero interactivo
+- [ ] Lógica de juego completa
+- [ ] Gestión de turnos entre jugadores
+- [ ] Determinación de ganador
+- [ ] Mejoras en la interfaz de usuario
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+
+Para probar el juego en tu máquina local, sigue estos pasos:
+
+1. Clona este repositorio
+2. Instala las dependencias: `npm install`
+3. Inicia la aplicación: `npm start`
