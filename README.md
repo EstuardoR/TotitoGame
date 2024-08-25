@@ -3,7 +3,7 @@
 Actualmente, el proyecto está en fase de desarrollo.
 
 - [x] Tablero interactivo
-- [ ] Lógica de juego completa
+- [X] Lógica de juego completa
 - [ ] Gestión de turnos entre jugadores
 - [ ] Determinación de ganador
 - [ ] Mejoras en la interfaz de usuario
