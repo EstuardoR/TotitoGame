@@ -1,17 +1,17 @@
-## Estado del Proyecto
+The project is currently in the development phase.
 
-Actualmente, el proyecto está en fase de desarrollo.
+- [x] Interactive Board
+- [X] Complete Game Logic
+- [ ] Player Turn Management
+- [ ] Winner Determination
+- [ ]  User Interface Improvements
 
-- [x] Tablero interactivo
-- [X] Lógica de juego completa
-- [ ] Gestión de turnos entre jugadores
-- [ ] Determinación de ganador
-- [ ] Mejoras en la interfaz de usuario
+## Installation
 
-## Instalación
 
-Para probar el juego en tu máquina local, sigue estos pasos:
+To test the game on your local machine, follow these steps:
 
-1. Clona este repositorio
-2. Instala las dependencias: `npm install`
-3. Inicia la aplicación: `npm start`
+1. Clone this repository.
+2. Install the dependencies: npm install
+3. Start the application: npm start
+
